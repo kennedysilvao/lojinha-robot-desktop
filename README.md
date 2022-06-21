@@ -9,7 +9,11 @@
 	🚧  Projeto Lojinha 🚀   🚧
 </h4>
 
+### SikuliLibrary
+ - Documentação <a href="http://rainmanwy.github.io/robotframework-SikuliLibrary/doc/SikuliLibrary.html#library-documentation-top">🔗 SikuliLibrary</a>
+
 ### Recursos
+ - Instale o python aqui <a href="https://www.python.org/">🔗 Python</a>
  - Abra o terminal e siga os passos:
     - git clone https://github.com/kennedysilvao/lojinha-robot-desktop.git
     - Vá até a pasta e abra ela no terminal
