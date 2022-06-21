@@ -17,6 +17,6 @@
 
 ### Para rodar o teste
  - No terminal, dentro do diretório digite:
- - ./run.sh
+ 	- ./run.sh
 
 <p>Feito por <a href="https://www.linkedin.com/in/kennedy-silva-de-oliveira-119154182/">Kennedy Silva</a></p>
